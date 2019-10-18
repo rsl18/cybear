@@ -6,11 +6,11 @@ Resources for CTF prep
 [Event Link] (https://www.eventbrite.com/e/2019-rotc-c3-tickets-72548990985)
 Relevant Details:
 
-0. Teams of 2-4 ROTC cadets
-1. King of the Hill CTF - ie. PVE, not attacking other teams persay
-2. Need to prep some tools ahead of time 
-3. No DoS
-4. Credentials sent out Nov 1 so should make team(s) soon
+* Teams of 2-4 ROTC cadets
+* King of the Hill CTF - ie. PVE, not attacking other teams persay
+* Need to prep some tools ahead of time 
+* No DoS
+* Credentials sent out Nov 1 so should make team(s) soon
 
 ## Resources
 
