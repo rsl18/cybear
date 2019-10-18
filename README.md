@@ -25,6 +25,8 @@ Relevant Details:
 ### Agenda:
 
 0. Icebreakers
+    1. Background
+    2. Motivations
 1. Logistics, Practice Schedule, Strategy
     1. What is a CTF 
     2. Competition
