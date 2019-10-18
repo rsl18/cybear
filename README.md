@@ -14,6 +14,8 @@ Relevant Details:
 
 ## Resources
 
+[King of the Hill CTF's](https://koth.cs.umd.edu/)
+
 [https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
 
 [https://github.com/ctfs/resources](https://github.com/ctfs/resources)
