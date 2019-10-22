@@ -20,6 +20,13 @@ Relevant Details:
 
 [https://github.com/ctfs/resources](https://github.com/ctfs/resources)
 
+## Week 1 - Mon Oct 21
+
+1. Recap
+2. URL, IP, DNS, TCP/UDP
+3. Team Formation
+4. Work Session
+
 ## Week 0 - Thurs Oct 17
 
 ### Agenda:
