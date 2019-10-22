@@ -24,7 +24,7 @@ Relevant Details:
 
 1. Recap
 2. [Computer Networks](https://docs.google.com/presentation/d/17v1Sj1FIVN3Ybr9xmURu8KaoKIPh6oiGRL7-xBISNqM/edit?usp=sharing)
-    1. Browser calls https://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+    1. Browser calls
     2. URLs
     3. IP
     4. DNS
