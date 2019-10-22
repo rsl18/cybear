@@ -23,7 +23,12 @@ Relevant Details:
 ## Week 1 - Mon Oct 21
 
 1. Recap
-2. URL, IP, DNS, TCP/UDP
+2. Computer Networks
+    1. Browser calls https://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/
+    2. URLs
+    3. IP
+    4. DNS
+    5. Data packets
 3. Team Formation
 4. Work Session
 
