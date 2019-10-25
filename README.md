@@ -14,6 +14,11 @@ Relevant Details:
 
 ## Resources
 
+
+CTF Field Guide http://trailofbits.github.io/ctf/
+Over the Wire http://overthewire.org/wargames/
+https://github.com/Kkevsterrr/koth - see visualization of network https://kkevsterrr.github.io/koth/
+
 [King of the Hill CTF's](https://koth.cs.umd.edu/)
 
 [https://github.com/apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf)
